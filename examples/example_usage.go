@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go360/pkg/go360"
+        "github.com/huskeyyy/go360/pkg/go360"
 	"fmt"
 	"log"
 )
