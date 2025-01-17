@@ -1,4 +1,21 @@
+
 # Go360
+
+<p>
+  <a href="https://pkg.go.dev/github.com/Huskeyyy/Go360">
+    <img src="https://pkg.go.dev/badge/github.com/Huskeyyy/Go360.svg" alt="Go Reference">
+  </a>
+  <a href="https://goreportcard.com/report/github.com/Huskeyyy/Go360">
+    <img src="https://goreportcard.com/badge/github.com/Huskeyyy/Go360" alt="Go Report Card">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://github.com/Huskeyyy/Go360">
+    <img src="https://img.shields.io/github/go-mod/go-version/Huskeyyy/Go360" alt="Go Version">
+  </a>
+</p>
+
 
 Go360 is an open-source Go library for interacting with RGH/XDK Xbox 360 consoles over TCP.
 
