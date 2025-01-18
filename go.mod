@@ -1,3 +1,3 @@
-github.com/huskeyyy/go360
+module github.com/huskeyyy/go360
 
 go 1.23
